@@ -1,5 +1,18 @@
 # @thirdweb-dev/sdk
 
+## 3.10.15
+
+### Patch Changes
+
+- [#713](https://github.com/thirdweb-dev/js/pull/713) [`e9b69300`](https://github.com/thirdweb-dev/js/commit/e9b69300d15b233609f1ed897256ec9a1eef3e28) Thanks [@kumaryash90](https://github.com/kumaryash90)! - Display plugins on router release page
+
+- [#997](https://github.com/thirdweb-dev/js/pull/997) [`799d98e8`](https://github.com/thirdweb-dev/js/commit/799d98e86258677ab72931fa8397aee653fe8b34) Thanks [@joaquim-verges](https://github.com/joaquim-verges)! - Switch type of SmartContract.abi
+
+- [#988](https://github.com/thirdweb-dev/js/pull/988) [`9886c858`](https://github.com/thirdweb-dev/js/commit/9886c858d9c8d0f677aba6572dbf5cc6c876edf2) Thanks [@kumaryash90](https://github.com/kumaryash90)! - Support ZKSync
+
+- Updated dependencies [[`c3645c45`](https://github.com/thirdweb-dev/js/commit/c3645c451b5e9a0fcf651fa07eb0e31ebf1882ca), [`482f6d1b`](https://github.com/thirdweb-dev/js/commit/482f6d1b58ac99b331fc750d3eeb6082556fd526), [`8db78299`](https://github.com/thirdweb-dev/js/commit/8db78299ea6cfb51d93b91bb1a351644a83c73d2)]:
+  - @thirdweb-dev/chains@0.1.16
+
 ## 3.10.14
 
 ### Patch Changes

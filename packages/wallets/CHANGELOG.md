@@ -1,5 +1,18 @@
 # @thirdweb-dev/wallets
 
+## 0.2.20
+
+### Patch Changes
+
+- [#1002](https://github.com/thirdweb-dev/js/pull/1002) [`d495a4b8`](https://github.com/thirdweb-dev/js/commit/d495a4b8a6e0599e5b4611620f3fded80a411173) Thanks [@MananTank](https://github.com/MananTank)! - Expose Web3Modal QRModalOptions in WalletConnect V2
+
+- [#998](https://github.com/thirdweb-dev/js/pull/998) [`4f843833`](https://github.com/thirdweb-dev/js/commit/4f8438335e3e3731b67ae271cb34c383832242a0) Thanks [@MananTank](https://github.com/MananTank)! - - skip wallet-selector screen if there's a single wallet
+  - Fix "Can't close Safe screen" issue
+  - Fix magicSdkConfiguration type
+- Updated dependencies [[`e9b69300`](https://github.com/thirdweb-dev/js/commit/e9b69300d15b233609f1ed897256ec9a1eef3e28), [`799d98e8`](https://github.com/thirdweb-dev/js/commit/799d98e86258677ab72931fa8397aee653fe8b34), [`c3645c45`](https://github.com/thirdweb-dev/js/commit/c3645c451b5e9a0fcf651fa07eb0e31ebf1882ca), [`482f6d1b`](https://github.com/thirdweb-dev/js/commit/482f6d1b58ac99b331fc750d3eeb6082556fd526), [`9886c858`](https://github.com/thirdweb-dev/js/commit/9886c858d9c8d0f677aba6572dbf5cc6c876edf2), [`8db78299`](https://github.com/thirdweb-dev/js/commit/8db78299ea6cfb51d93b91bb1a351644a83c73d2)]:
+  - @thirdweb-dev/sdk@3.10.15
+  - @thirdweb-dev/chains@0.1.16
+
 ## 0.2.19
 
 ### Patch Changes
